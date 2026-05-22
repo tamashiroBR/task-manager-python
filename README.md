@@ -20,7 +20,7 @@ Um aplicativo simples de linha de comando para gerenciar tarefas com persistênc
 1. Clone o repositório
 2. Navegue até o diretório do projeto:
    ```bash
-   cd 1-task-manager-python
+   cd task-manager-python
    ```
 3. Execute o script:
    ```bash
